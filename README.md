@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img height="200" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" />
+      <img height="200" src="https://media.tenor.com/tp-xlLo_4L4AAAAi/gaming-abstract.gif" />
     </td>
     <td width="70%" align="center" valign="middle">
       <div>
